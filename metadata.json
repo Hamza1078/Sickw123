@@ -1,0 +1,7 @@
+{
+  "description": "Sickw Orders Parser with AI IMEI Extraction",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Sickw Orders MVP"
+}
